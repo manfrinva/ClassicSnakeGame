@@ -1,5 +1,5 @@
 # ClassicSnakeGame
-The Classic Snake Game made in C.
+The Classic Snake Game made in C++.
 
 A project I did at the beginning of my graduation in IT, using C language to program the classic snake game of old Nokia cell phones.
 To play, just download the file named Snake.exe and have fun.
